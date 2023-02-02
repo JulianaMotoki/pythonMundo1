@@ -6,4 +6,4 @@ from math import trunc
 
 numero = float(input('Informe um número: '))
 
-print(f'A porção inteira do 1º número informado é: {trunc(numero)}')
+print(f'A porção inteira do número {numero} é {trunc(numero)}')
